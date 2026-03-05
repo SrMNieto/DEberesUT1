@@ -1,0 +1,4 @@
+P001;Tenis;Pista central;true
+P002;Padel;Pista cubierta;true
+P009;futbol;nudista;false
+P004;futbol;nudista;true

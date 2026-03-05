@@ -1,0 +1,5 @@
+S001;12345678A;Juan;Pérez;600111222;juan.perez@email.com
+S002;87654321B;María;Gómez;600333444;maria.gomez@email.com
+S003;45678912C;Pedro;López;600555666;pedro.lopez@email.com
+S004;78912345D;Ana;Martínez;600777888;ana.martinez@email.com
+S005;32165487E;Luis;Sánchez;600999000;luis.sanchez@email.com
